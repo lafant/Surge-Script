@@ -1,0 +1,25 @@
+# > Netease Music
+DOMAIN,apm.music.163.com
+DOMAIN,apm3.music.163.com
+DOMAIN,interface.music.163.com
+DOMAIN,interface3.music.163.com
+DOMAIN,music.163.com
+IP-CIDR,39.105.0.0/16,no-resolve
+IP-CIDR,45.254.48.0/24,no-resolve
+IP-CIDR,47.100.127.0/24,no-resolve
+IP-CIDR,59.111.0.0/16,no-resolve
+IP-CIDR,101.71.154.0/24,no-resolve
+IP-CIDR,103.126.92.0/24,no-resolve
+IP-CIDR,103.215.141.0/24,no-resolve
+IP-CIDR,112.13.0.0/16,no-resolve
+IP-CIDR,115.236.0.0/16,no-resolve
+IP-CIDR,118.24.63.0/24,no-resolve
+IP-CIDR,120.226.43.0/24,no-resolve
+IP-CIDR,125.44.162.0/24,no-resolve
+IP-CIDR,182.92.170.0/24,no-resolve
+IP-CIDR,183.134.54.0/24,no-resolve
+IP-CIDR,193.112.159.0/24,no-resolve
+IP-CIDR,222.200.254.0/24,no-resolve
+IP-CIDR,223.252.199.0/24,no-resolve
+IP-CIDR,2407:ae80:400:1004::1/128,no-resolve
+IP-CIDR,2407:ae80:200:1001::20/128,no-resolve
